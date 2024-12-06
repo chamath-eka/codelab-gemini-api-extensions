@@ -27,7 +27,7 @@ interface RootLayoutProps {
 }
 
 export const metadata: Metadata = {
-  title: "Friendly Conf",
+  title: "DevFest SL",
   description: "Build AI-powered web apps with Gemini API Firebase Extensions",
 };
 

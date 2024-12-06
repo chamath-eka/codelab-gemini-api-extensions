@@ -37,7 +37,7 @@ const NavLayout: React.FC<NavLayoutProps> = ({ children }) => {
 
   const navItems = [
     { name: "Home", href: "/" },
-    { name: "Gallery", href: "/gallery" },
+    // { name: "Gallery", href: "/gallery" },
   ];
 
   const toggleDropdown = () => {
